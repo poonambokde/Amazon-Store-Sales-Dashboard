@@ -42,3 +42,8 @@ Created DAX measures for Total Sales, Orders, Returns, and Return Rate.
 Built visuals: KPIs, bar charts, pie charts, line chart, and map.
 Formatted and customized visuals for interactivity and insights.
 Published dashboard for analysis and reporting
+
+# Dashboard
+
+<img width="1567" height="799" alt="Screenshot 2025-08-01 145405" src="https://github.com/user-attachments/assets/f60fb0c0-8f10-481c-87f0-931489bcfbe1" />
+
