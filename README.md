@@ -33,3 +33,12 @@ Support data-driven strategies for improving customer satisfaction and operation
 9. Which U.S. states have the highest and lowest sales performance?
 
 10. What is the proportion of returned vs non-returned orders?
+
+# Process
+
+Imported Amazon sales data from Excel into Power BI.
+Cleaned data using Power Query (removed nulls, fixed types, renamed columns).
+Created DAX measures for Total Sales, Orders, Returns, and Return Rate.
+Built visuals: KPIs, bar charts, pie charts, line chart, and map.
+Formatted and customized visuals for interactivity and insights.
+Published dashboard for analysis and reporting
