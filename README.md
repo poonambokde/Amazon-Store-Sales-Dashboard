@@ -47,3 +47,20 @@ Published dashboard for analysis and reporting
 
 <img width="1567" height="799" alt="Screenshot 2025-08-01 145405" src="https://github.com/user-attachments/assets/f60fb0c0-8f10-481c-87f0-931489bcfbe1" />
 
+# Project Insights
+
+Total Sales: ₹1.57M
+Total Orders: 175.26K
+Returned Orders: 177.11K (may need data review)
+Top Region: East
+Top Ship Mode: Standard Class
+Top Segment: Consumer
+Top Category: Technology
+Top Sub-Categories: Phones, Chairs
+Monthly sales show seasonal patterns
+Highest sales in states like California and New York
+
+# Final Conclusion
+
+The dashboard reveals strong sales in Technology and Consumer segments, with East region leading. High return figures suggest a need for quality review. This dashboard helps identify trends, improve decision-making, and optimize store performance
+
