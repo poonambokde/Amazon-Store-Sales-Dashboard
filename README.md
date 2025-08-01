@@ -10,4 +10,4 @@ Track time-based performance and gain geographical insights using map visualizat
 Support data-driven strategies for improving customer satisfaction and operational efficiency.
 
 # Dataset Used
-Amazon Store Sales Data.xlsx - Sheet1.csv
+<a [Amazon Store Sales Data.xlsx - Sheet1.csv](https://github.com/poonambokde/Amazon-Store-Sales-Dashboard/blob/main/Amazon%20Store%20Sales%20Data.xlsx%20-%20Sheet1.csv)</a>
