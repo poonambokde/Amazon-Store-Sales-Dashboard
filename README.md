@@ -11,3 +11,25 @@ Support data-driven strategies for improving customer satisfaction and operation
 
 # Dataset Used
 <a [Amazon Store Sales Data.xlsx - Sheet1.csv](https://github.com/poonambokde/Amazon-Store-Sales-Dashboard/blob/main/Amazon%20Store%20Sales%20Data.xlsx%20-%20Sheet1.csv)</a>
+
+# Questions
+
+1. What is the total sales revenue generated from all orders?
+
+2. How many total orders have been placed?
+
+3. How many of those orders were returned?
+
+4. Which region (East, West, Central, South) has the highest number of sales?
+
+5. Which shipping mode is used most frequently by customers?
+
+6. Which customer segment contributes the most to overall sales?
+
+7. Which product category (e.g., Technology, Furniture, Office Supplies) performs best in terms of sales?
+
+8. What is the monthly trend in sales over time?
+
+9. Which U.S. states have the highest and lowest sales performance?
+
+10. What is the proportion of returned vs non-returned orders?
